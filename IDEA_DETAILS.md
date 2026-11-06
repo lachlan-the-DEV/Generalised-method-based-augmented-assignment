@@ -1,4 +1,4 @@
-#IDEA DETAILS:
+# IDEA DETAILS:
 
 My proposal is adding === as a way to shorten: variable = variable.lower() to variable === .lower(), this is similar to += but for methods.
 
